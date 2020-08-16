@@ -33,7 +33,7 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCEnb-yeZmWmnitES1I_7frtOCpgyT2p74"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="/*API_KEY*/"/>
         <activity android:name=".MainActivity"
             >
             <intent-filter>
