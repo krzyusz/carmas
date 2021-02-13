@@ -9,3 +9,5 @@ CARMAS is a project created in order to help with some activities during driving
 CARMAS jest projektem mającym na celu wspieranie kierowcy podczas jazdy samochodem. Na projekt składa się aplikacja mobilna współpracująca z układem elektronicznym. Głównymi funkcjami projektu są: czujniki parkowania, wideorejestrator oraz detekcja wypadku. Najważniejszą cechą projektu jest wszechstronność - działa on na każdym telefonie z systemem Android oraz instalacja jest możliwa w każdym aucie.
 
 © CARMAS 2019
+
+Project presentation/prezentacja projektu - https://drive.google.com/file/d/1lnjeLWtKN_Bv4kahwmbfGsv5pAOoIWs3/view?usp=sharing
